@@ -24,9 +24,9 @@ The project applies GraphSAGE to model the potential relationships between Super
 
 ## Installation
 ---
-(personal repository) The repository resides at: https://github.com/jsdriscoll/DSCI-8950-GraphSAGE-Project---jsdriscoll_branch
-(group repository) The repository resides at: https://github.com/JeswanthReddy78/DSCI-2025-TEAM-F
 
+```
+(group repository) The repository resides at: https://github.com/JeswanthReddy78/DSCI-2025-TEAM-F
 ```
 
 ## Usage
