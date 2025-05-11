@@ -1,0 +1,23 @@
+{
+  "timestamp": "20250508_005948",
+  "train_mse": 2789.218505859375,
+  "train_rmse": 52.81305241944812,
+  "train_r2": 0.1895117163658142,
+  "val_mse": 2649.047607421875,
+  "val_rmse": 51.468899419182016,
+  "val_r2": 0.15480822324752808,
+  "epochs_trained": 98,
+  "early_stopped": true,
+  "parameters": {
+    "hidden_channels": 448,
+    "lr": 0.004387973613412643,
+    "dropout": 0.1672152874629679,
+    "weight_decay": 5.753370697284744e-05,
+    "num_layers": 3,
+    "aggr": "mean",
+    "activation": "relu",
+    "batch_norm": false,
+    "residual": true,
+    "accumulation_steps": 12
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "hidden_channels": 448,
+  "lr": 0.004387973613412643,
+  "dropout": 0.1672152874629679,
+  "weight_decay": 5.753370697284744e-05,
+  "num_layers": 3,
+  "aggr": "mean",
+  "activation": "relu",
+  "batch_norm": false,
+  "residual": true,
+  "accumulation_steps": 12
+}
